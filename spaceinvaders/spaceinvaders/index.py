@@ -1,6 +1,5 @@
-# Space Invaders Part 1
-# Set up the screen
-# Python 3.7.2
+#SpaceInvaders from Christian Thomson channel
+
 import turtle 
 import os
 import math
